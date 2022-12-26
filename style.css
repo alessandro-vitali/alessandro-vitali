@@ -257,6 +257,7 @@ label {
   font-size: 20px;
   line-height: 1.1;
   font-weight: 800;
+  min-height: 100vh;
 }
 
 .v1-container {
